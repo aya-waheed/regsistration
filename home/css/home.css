@@ -1,0 +1,61 @@
+.my-nav{
+
+    background-color: #24353F;
+    font-family: 'Titillium Web', sans-serif;
+
+
+
+}
+
+
+.my-nav a{
+
+    color: white;
+}
+/* 
+.home-btn{
+
+    background-color: #24353F ;
+    border: 1px solid yellow;
+    border-radius: 5%;
+    padding: 8px 8px;
+    color: white;
+    transition: all .7s;
+}
+
+.home-btn:hover{
+
+    background-color: yellow;
+} */
+
+
+.home-page{
+
+    background-color: #24353F;
+    min-height: 100vh;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+.home-page .container{
+
+ display: flex;
+ align-items: center;
+ 
+
+}
+
+
+.home-message{
+
+    margin: auto !important;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+
+.home-message h1{
+
+
+    color: #17A2B8;
+}
+
